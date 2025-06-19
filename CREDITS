@@ -1,0 +1,176 @@
+# how - Credits and Acknowledgments
+
+This project uses and depends on several open-source tools and libraries. Below is a comprehensive list of all dependencies and their respective licenses.
+
+## Core Python Dependencies
+
+1. Requests
+   - Version: 2.31.0+
+   - License: MIT
+   - URL: https://github.com/psf/requests
+   - Copyright: 2019 Kenneth Reitz
+
+2. BeautifulSoup 4
+   - Version: 4.12.2+
+   - License: MIT
+   - URL: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+   - Copyright: 2004-2025 Leonard Richardson
+
+3. Pillow (PIL Fork)
+   - Version: 10.1.0+
+   - License: HPND
+   - URL: https://github.com/python-pillow/Pillow
+   - Copyright: 2010-2025 Alex Clark and Contributors
+
+## System and File Management
+
+1. psutil
+   - Version: 5.9.6+
+   - License: BSD
+   - URL: https://github.com/giampaolo/psutil
+   - Copyright: 2009-2025 Giampaolo Rodola'
+
+2. pathlib
+   - Version: 1.0.1+
+   - License: PSF
+   - URL: Part of Python Standard Library
+   - Copyright: Python Software Foundation
+
+## Package Management
+
+1. packaging
+   - Version: 23.2+
+   - License: Apache 2.0
+   - URL: https://github.com/pypa/packaging
+   - Copyright: 2014 Donald Stufft and individual contributors
+
+## Network Utilities
+
+1. netifaces
+   - Version: 0.11.0+
+   - License: LGPL
+   - URL: https://github.com/al45tair/netifaces
+   - Copyright: 2010 Alastair Houghton
+
+## Archive Handling
+
+1. patool
+   - Version: 1.12+
+   - License: GPL
+   - URL: https://github.com/wummel/patool
+   - Copyright: 2004-2025 Bastian Kleineidam
+
+## Security and Scanning
+
+1. pyclamd
+   - Version: 0.4.0+
+   - License: GPL
+   - URL: https://github.com/jim-daly/pyclamd
+   - Copyright: 2010-2025 Jim Daly
+
+## Development Tools
+
+1. pytest
+   - Version: 7.4.3+
+   - License: MIT
+   - URL: https://github.com/pytest-dev/pytest
+   - Copyright: 2004-2025 Holger Krekel and others
+
+2. black
+   - Version: 23.11.0+
+   - License: MIT
+   - URL: https://github.com/psf/black
+   - Copyright: 2018-2025 Łukasz Langa and others
+
+3. isort
+   - Version: 5.12.0+
+   - License: MIT
+   - URL: https://github.com/PyCQA/isort
+   - Copyright: 2013-2025 Tim Hatch
+
+4. mypy
+   - Version: 1.7.0+
+   - License: MIT
+   - URL: https://github.com/python/mypy
+   - Copyright: 2012-2025 Jukka Lehtosalo and others
+
+## Documentation Tools
+
+1. Sphinx
+   - Version: 7.2.6+
+   - License: BSD
+   - URL: https://github.com/sphinx-doc/sphinx
+   - Copyright: 2007-2025 Georg Brandl and others
+
+2. sphinx-rtd-theme
+   - Version: 1.3.0+
+   - License: MIT
+   - URL: https://github.com/readthedocs/sphinx_rtd_theme
+   - Copyright: 2013-2025 Read the Docs, Inc.
+
+## Version Control
+
+1. GitPython
+   - Version: 3.1.40+
+   - License: BSD
+   - URL: https://github.com/gitpython-developers/GitPython
+   - Copyright: 2010-2025 Sebastian Thiel and others
+
+## Other Utilities
+
+1. python-dateutil
+   - Version: 2.8.2+
+   - License: PSF
+   - URL: https://github.com/dateutil/dateutil
+   - Copyright: 2003-2025 Paul Ganssle and others
+
+2. colorama
+   - Version: 0.4.6+
+   - License: BSD
+   - URL: https://github.com/tartley/colorama
+   - Copyright: 2013-2025 Jonathan Hartley
+
+3. rich
+   - Version: 13.7.0+
+   - License: MIT
+   - URL: https://github.com/willmcgugan/rich
+   - Copyright: 2020-2025 Will McGugan
+
+## System Dependencies
+
+1. Python 3
+   - Version: 3.8+
+   - License: PSF
+   - URL: https://www.python.org/
+   - Copyright: Python Software Foundation
+
+2. Git
+   - Version: 2.0+
+   - License: GPL v2
+   - URL: https://git-scm.com/
+   - Copyright: Linus Torvalds and others
+
+3. Wine
+   - Version: 7.0+
+   - License: GPL v2
+   - URL: https://www.winehq.org/
+   - Copyright: Alexandre Julliard and WineHQ contributors
+
+4. ClamAV
+   - Version: 0.103+
+   - License: GPL v2
+   - URL: https://www.clamav.net/
+   - Copyright: ClamAV Team
+
+5. ADB (Android Debug Bridge)
+   - Version: 1.0.41+
+   - License: Apache 2.0
+   - URL: https://developer.android.com/studio/command-line/adb
+   - Copyright: Android Open Source Project
+
+## Special Thanks
+
+- All contributors to the Python ecosystem
+- The maintainers of the open-source tools listed above
+- The users who provide feedback and suggestions
+- The community that makes open-source software possible
